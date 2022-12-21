@@ -1,0 +1,20 @@
+/*
+Theme Name: WP Doc Theme One Page Side Bar
+Theme URI: https://pauloduque.dev
+Author: Paulo Duque
+Author URI: https://pauloduque.dev
+Description: This theme is for praticing purposes only.
+Requires at least: 5.6
+Tested up to: 5.9
+Requires PHP: 7.4.3
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: wp-devs
+Tags: one-column, custom-menu, custom-logo, featured-images, translation-ready
+*/
+
+/**
+1. Normalize
+2. Theme Specific CSS
+*/
