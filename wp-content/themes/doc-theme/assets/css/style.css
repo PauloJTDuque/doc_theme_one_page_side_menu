@@ -1,23 +1,48 @@
-/*
-Theme Name: WP Doc Theme One Page Side Bar
-Theme URI: https://pauloduque.dev
-Author: Paulo Duque
-Author URI: https://pauloduque.dev
-Description: This theme is for praticing purposes only.
-Requires at least: 5.6
-Tested up to: 5.9
-Requires PHP: 7.4.3
-Version: 1.0
-License: GNU General Public License v2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Text Domain: wp-devs
-Tags: one-column, custom-menu, custom-logo, featured-images, translation-ready
-*/
-
 /**
-1. Normalize
-2. Theme Specific CSS
-*/
+ Theme Name: Nischinto
+ Author: Laralink
+ Developer: Tamjid Bin Murtoza
+ Version: 1.0.0
+ */
+/*Google Fonts*/
+@import url("https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700&display=swap");
+/*--------------------------------------------------------------
+>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+1. Typography
+2. Spacing
+3. General
+4. Preloader
+5. Header
+6. Button
+7. Slider
+8. Slider
+9. Section Heading
+10. Icon box
+11. Text Block
+12. Text Block
+13. Video Block
+14. Image Box
+15. Funfact
+16. Isotope
+17. Image Gallery
+18. Skill
+19. Member
+20. CTA
+21. Pricing Table
+22. Post
+23. Logo carousel
+24. Testimonial
+25. Newsletter
+26. Contact Form
+27. Blog Details
+28. Comments
+29. Tab
+30. Select
+31. Accordian
+32. Before After Slider
+33. Footer
+
 --------------------------------------------------------------*/
 /*--------------------------------------------------------------
 1. Typography
