@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html class="no-js" lang="en">
+<html class="no-js" <?php language_attributes(); ?>>
 <head>
   <!-- Meta Tags -->
-  <meta charset="utf-8">
+  <meta charset="<?php bloginfo( 'charset' ); ?>">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="author" content="">
@@ -11,9 +11,11 @@
   <!-- Favicon Icon -->
   <link rel="icon" href="assets/img/favicon.png" />
 
+  <php wp_head(); ?>
+
 </head>
 
-<body>
+<body <?php body_class(); ?>
   <div class="st-perloader">
     <div class="st-perloader-in">
       <div class="st-wave-first">
