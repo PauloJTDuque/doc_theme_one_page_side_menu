@@ -5,9 +5,10 @@
   <meta charset="<?php bloginfo( 'charset' ); ?>">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="author" content="">
+  <!-- <meta name="author" content=""> -->
   <!-- Page Title -->
-  <title>Nischinto - Medical landing page HTML template</title>
+  <!-- <title>Nischinto - Medical landing page HTML template</title> -->
+
   <!-- Favicon Icon -->
   <link rel="icon" href="assets/img/favicon.png" />
 
@@ -26,6 +27,7 @@
       </div>
     </div>
   </div>
+
   <!-- Start Header Section -->
   <header class="st-site-header st-style2 st-sticky-header">
     <div class="st-main-header">
