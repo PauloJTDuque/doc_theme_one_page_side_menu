@@ -1,4 +1,4 @@
-<?php get_header();?>
+<?php get_header(); ?>
 
 
   <div class="st-content">
@@ -1950,4 +1950,4 @@
     </div>
   </div>
 
-  <?php get_footer();?>  
+  <?php get_footer(); ?>  

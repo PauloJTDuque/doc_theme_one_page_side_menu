@@ -16,7 +16,7 @@
 
 </head>
 
-<body <?php body_class(); ?>
+<body <?php body_class(); ?>>
   <div class="st-perloader">
     <div class="st-perloader-in">
       <div class="st-wave-first">

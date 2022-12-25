@@ -1,7 +1,15 @@
 <?php
 
 function wpdoc_load_scripts(){
+    // load font and css
+
     wp_enqueue_style('wpdoc_style', get_stylesheet_uri(), array(), filemtime(get_template_directory() . '/style.css' ), 'all');
+    
+    wp_enqueue_style('wpdoc_font', get_template_directory_uri(), array(),  . '/assets/css/fontawesome.css', array(), 1, 'all);
+
+
+
+
 }
 add_action( 'wp_enqueue_scripts', 'wpdoc_load_scripts' );
 
@@ -9,12 +17,10 @@ add_action( 'wp_enqueue_scripts', 'wpdoc_load_scripts' );
 
 
 // function wpdoc_load_stylesheets() {
-//     // load font and css
 //     //wp_register_style('style', get_template_directory_uri() . '/assets/css/style.css', array(), 1, 'all');
    
 //     //wp_register_style('font', get_template_directory_uri() . '/assets/css/fontawesome.css', array(), 1, 'all');
 
-//     wp_enqueue_style('font', get_template_directory_uri());
 
 //     wp_register_style('bootstrap', get_template_directory_uri() . '/assets/css/bootstrap.min.css', array(), 1, 'all');
 //     wp_enqueue_style('bootstrap');
