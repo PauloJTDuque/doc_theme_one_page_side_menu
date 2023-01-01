@@ -15,7 +15,7 @@ function wpdoc_load_scripts(){
     wp_enqueue_style('wpdoc_select2', get_template_directory_uri() . '/assets/css/select2.min.css', array(), 1, 'all');
     wp_enqueue_style('wpdoc_flaticon', get_template_directory_uri() . '/assets/css/falticon.css', array(), 1, 'all');
 
-
+    
     // load JS
 
     wp_enqueue_script( 'wpdoc_jqueryui_js', get_template_directory_uri() . '/assets/js/jQueryUi.js', array(), '1.0', true );

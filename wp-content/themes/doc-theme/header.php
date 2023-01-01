@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html class="no-js" <?php language_attributes(); ?>>
+<!-- <html class="no-js" <?php language_attributes(); ?>> -->
+<html <?php language_attributes(); ?>>
 <head>
   <!-- Meta Tags -->
   <meta charset="<?php bloginfo( 'charset' ); ?>">
@@ -12,7 +13,7 @@
   <!-- Favicon Icon -->
   <link rel="icon" href="assets/img/favicon.png" />
 
-  <php wp_head(); ?>
+  <?php wp_head(); ?>
 
 </head>
 
