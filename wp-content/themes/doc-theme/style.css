@@ -874,10 +874,10 @@ hr {
     animation: spark 1.25s linear infinite; }
     .st-perloader .st-wave-second svg {
       fill: #0cb8b6; }
-  .st-perloader.st-color1 .st-wave-second svg {
+  /* .st-perloader.st-color1 .st-wave-second svg {
     fill: #27b1d9; }
   .st-perloader.st-color2 .st-wave-second svg {
-    fill: #ff375f; }
+    fill: #ff375f; } */
 
 @keyframes spark {
   0% {
@@ -1026,13 +1026,11 @@ hr {
 /* .st-site-header.st-style1.st-type1 .st-top-header {
   overflow: hidden;
   border-bottom: 1px solid #eaeaea; } */
-  .st-site-header.st-style1.st-type1 .st-top-header .st-top-header-in {
+  /* .st-site-header.st-style1.st-type1 .st-top-header .st-top-header-in {
     height: 70px; }
 .st-site-header.st-style1.st-type1 .st-main-header-in {
-  height: 70px; }
+  height: 70px; } */
 
-
-/* PAREI AQUI ******* */
 
 
 

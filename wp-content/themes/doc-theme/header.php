@@ -39,15 +39,21 @@
           </div>
           <div class="st-main-header-right">
             <div class="st-nav">
+
+
+
               <ul class="st-nav-list st-onepage-nav">
-                <li><a href="#home" class="st-smooth-move">Home</a></li>
+                  <nav class="main-menu">
+                      <?php wp_nav_menu( array( 'theme_location' => 'wpdoc_main_menu', 'depth' => 1 )); ?>
+                  </nav>
+                <!-- <li><a href="#home" class="st-smooth-move">Home</a></li>
                 <li><a href="#about" class="st-smooth-move">About us</a></li>
                 <li><a href="#department" class="st-smooth-move">Department</a></li>
                 <li><a href="#doctors" class="st-smooth-move">Doctors</a></li>
                 <li><a href="#gallery" class="st-smooth-move">Gallery</a></li>
                 <li><a href="#price" class="st-smooth-move">Pricing plan</a></li>
                 <li><a href="#blog" class="st-smooth-move">Latest news</a></li>
-                <li><a href="#contact" class="st-smooth-move">Contact</a></li>
+                <li><a href="#contact" class="st-smooth-move">Contact</a></li> -->
               </ul>
             </div>
             <a href="#appointment" class="st-btn st-style1 st-color4 st-smooth-move st-size-medium w-100">Book An Appointment</a>
