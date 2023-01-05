@@ -2,9 +2,12 @@
 
 function wpdoc_load_scripts(){
    
-    // Loading font and css
-    wp_enqueue_style('wpdoc_style', get_stylesheet_uri(), array(), filemtime(get_template_directory() . '/style.css' ), 'all');
+    // Loading font 
     wp_enqueue_style('google-fonts', 'https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700&display=swap', array(), null);
+    
+    
+    // Loading css
+    wp_enqueue_style('wpdoc_style', get_stylesheet_uri(), array(), filemtime(get_template_directory() . '/style.css' ), 'all');
     wp_enqueue_style('wpdoc_font', get_template_directory_uri() . '/assets/css/fontawesome.css', array(), 1, 'all');
     wp_enqueue_style('wpdoc_bootstrap', get_template_directory_uri() . '/assets/css/bootstrap.min.css', array(), 1, 'all');
     wp_enqueue_style('wpdoc_slick', get_template_directory_uri() . '/assets/css/slick.css', array(), 1, 'all');
