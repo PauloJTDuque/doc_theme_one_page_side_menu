@@ -40,8 +40,6 @@
           <div class="st-main-header-right">
             <div class="st-nav">
 
-
-
               <ul class="st-nav-list st-onepage-nav">
                   <nav class="main-menu">
                       <?php wp_nav_menu( array( 'theme_location' => 'wpdoc_main_menu', 'depth' => 1 )); ?>

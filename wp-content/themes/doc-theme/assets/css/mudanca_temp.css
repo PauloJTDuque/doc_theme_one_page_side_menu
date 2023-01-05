@@ -1,0 +1,38 @@
+/* mudança 1 */
+/* .st-site-header.st-style1 {
+  background-color: rgba(255, 255, 255, 0.9);
+  box-shadow: 0 10px 10px -10px rgba(33, 43, 53, 0.1);
+  transition: all 0.4s ease; }
+  .st-site-header.st-style1 .st-main-header-in {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    height: 80px; }
+  .st-site-header.st-style1.st-sticky-active {
+    background-color: #fff; }
+  .st-site-header.st-style1 .st-social-btn.st-style1 li {
+    font-size: 18px;
+    color: #b5b5b5;
+    margin-right: 20px; }
+    .st-site-header.st-style1 .st-social-btn.st-style1 li:last-child {
+      margin-right: 0; }
+  .st-site-header.st-style1.st-color1 .st-top-header-btn.st-type1 {
+    background-color: #ff375f; }
+    .st-site-header.st-style1.st-color1 .st-top-header-btn.st-type1:hover {
+      background-color: #e6274d; }
+  .st-site-header.st-style1.st-color1 .st-top-header {
+    border-color: rgba(255, 55, 95, 0.3); } */
+
+
+/* APAGADOS */
+    /* .st-top-header {
+  overflow: hidden;
+  border-bottom: 1px solid rgba(12, 184, 182, 0.4); }
+  .st-top-header .st-top-header-in {
+    height: 45px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    transition: all 0.4s ease; } */
