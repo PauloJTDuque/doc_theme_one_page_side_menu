@@ -1,4 +1,4 @@
-/*
+/*Bar
 Theme Name: WP Doc Theme One Page Side Bar
 Theme URI: https://pauloduque.dev
 Author: Paulo Duque
@@ -1268,11 +1268,11 @@ hr {
       justify-content: space-between;
       height: 70px; }
 
-  .st-site-header.st-style1.st-type2 .st-main-header-center {
+  .st-site-header.st-style1.st-type2 {
     position: initial;
     transform: initial; }
 
-  .st-site-header.st-style1.st-type2 .st-main-header-center + .st-main-header-right {
+  .st-site-header.st-style1.st-type2 + .st-main-header-right {
     display: none; } }
 /*--------------------------------------------------------------
 6. Button
