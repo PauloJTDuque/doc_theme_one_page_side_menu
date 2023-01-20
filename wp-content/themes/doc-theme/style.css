@@ -415,10 +415,10 @@ a:hover {
   margin: 0;
   padding: 0; }
 
-.st-flex-center {
+/* .st-flex-center {
   display: flex;
   align-items: center;
-  justify-content: center; }
+  justify-content: center; } */
 
 .st-zoom {
   position: relative;
@@ -456,16 +456,16 @@ a:hover {
 .st-gray-bg {
   background-color: #f9fafc; }
 
-.st-gray-bg1 {
-  background-color: #f9f9f9; }
+/* .st-gray-bg1 {
+  background-color: #f9f9f9; } */
 
-.st-gray-bg2 {
-  background-color: #F8F8FB; }
+/* .st-gray-bg2 {
+  background-color: #F8F8FB; } */
 
-.st-bluis-bg {
-  background-color: #eaf9fa; }
+/* .st-bluis-bg {
+  background-color: #eaf9fa; } */
 
-.st-gray-overlay {
+/* .st-gray-overlay {
   position: relative; }
   .st-gray-overlay:before {
     content: '';
@@ -477,14 +477,14 @@ a:hover {
     background-color: rgba(249, 250, 252, 0.86); }
   .st-gray-overlay .container {
     position: relative;
-    z-index: 1; }
+    z-index: 1; } */
 
 hr {
   margin: 0;
   width: 100%;
   border-color: #eaeaea; }
 
-.st-parallax-shape-wpra {
+/* .st-parallax-shape-wpra {
   position: relative; }
 
 .st-parallax-shape.st-style1 {
@@ -503,9 +503,9 @@ hr {
   background-color: #f9fafc;
   transform: rotate(-25deg);
   top: 675px;
-  left: -9.5%; }
+  left: -9.5%; } */
 
-.st-hover-layer,
+/* .st-hover-layer,
 .st-hover-layer1,
 .st-hover-layer2,
 .st-hover-layer3,
@@ -519,7 +519,7 @@ hr {
   transition: all 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
   transition: all 0.5s cubic-bezier(0.215, 0.61, 0.355, 1), -webkit-transform 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
   -webkit-transform: perspective(600px) translate3d(0, 0, 0);
-  transform: perspective(600px) translate3d(0, 0, 0); }
+  transform: perspective(600px) translate3d(0, 0, 0); } */
 
 .st-fixed-bg {
   background-attachment: fixed; }
@@ -530,17 +530,17 @@ hr {
   display: block;
   border: none; }
 
-.st-google-map.st-type1 iframe {
-  height: 600px; }
+/* .st-google-map.st-type1 iframe {
+  height: 600px; } */
 
-.st-google-map.st-type2 iframe {
-  height: 150px; }
+/* .st-google-map.st-type2 iframe {
+  height: 150px; } */
 
-.st-light-blue {
-  color: #27b1d9; }
+/* .st-light-blue {
+  color: #27b1d9; } */
 
-.st-pink {
-  color: #ff375f; }
+/* .st-pink {
+  color: #ff375f; } */
 
 .st-blue {
   color: #0cb8b6; }
@@ -580,10 +580,10 @@ hr {
   fill: #9ea0a5;
   background-color: rgba(158, 160, 165, 0.1); }
 
-.st-pink-box {
+/* .st-pink-box {
   color: #ff375f;
   fill: #ff375f;
-  background-color: rgba(255, 55, 95, 0.1); }
+  background-color: rgba(255, 55, 95, 0.1); } */
 
 .st-about-wrap {
   position: relative; }
@@ -682,7 +682,7 @@ hr {
       height: 100%;
       width: 100%; }
 
-.st-about-img {
+/* .st-about-img {
   min-height: 300px;
   height: calc(100% - 30px);
   width: calc(100% - 30px);
@@ -694,23 +694,23 @@ hr {
     border-radius: inherit;
     position: relative;
     left: 30px;
-    top: -30px; }
+    top: -30px; } */
 
-.ui-widget.ui-widget-content {
-  z-index: 10 !important; }
+/* .ui-widget.ui-widget-content {
+  z-index: 10 !important; } */
 
-.st-doctors-info-title,
+/* .st-doctors-info-title,
 .st-working-hour-title {
   font-size: 20px;
-  margin-bottom: 15px; }
+  margin-bottom: 15px; } */
 
-.st-doctors-info,
+/* .st-doctors-info,
 .st-working-hour {
   border: 1px solid #eaeaea;
   border-radius: 5px;
-  padding: 20px 20px; }
+  padding: 20px 20px; } */
 
-.st-working-hour-list li {
+/* .st-working-hour-list li {
   display: flex;
   justify-content: space-between;
   position: relative; }
@@ -719,9 +719,9 @@ hr {
   .st-working-hour-list li:not(:last-child) {
     margin-bottom: 10px; }
   .st-working-hour-list li .st-offday {
-    color: #b5b5b5; }
+    color: #b5b5b5; } */
 
-.st-doctors-info-list li {
+/* .st-doctors-info-list li {
   position: relative;
   padding-left: 30px; }
   .st-doctors-info-list li:not(:last-child) {
@@ -730,13 +730,13 @@ hr {
     position: absolute;
     left: 0;
     top: 5px;
-    color: #b5b5b5; }
+    color: #b5b5b5; } */
 
-.st-doctor-name {
+/* .st-doctor-name {
   font-size: 24px;
-  margin-bottom: 2px; }
+  margin-bottom: 2px; } */
 
-.st-doctor-designation {
+/* .st-doctor-designation {
   font-size: 16px;
   line-height: 1.6em;
   font-weight: 400;
@@ -746,9 +746,9 @@ hr {
   margin-top: 10px;
   font-size: 16px;
   line-height: 1.6em;
-  color: #111; }
+  color: #111; } */
 
-.st-doctor-details-box h2 {
+/* .st-doctor-details-box h2 {
   font-size: 20px;
   margin-bottom: 10px; }
 .st-doctor-details-box p:last-child {
@@ -758,9 +758,9 @@ hr {
   margin: 0;
   list-style: none; }
   .st-doctor-details-box ul li:not(:last-child) {
-    margin-bottom: 10px; }
+    margin-bottom: 10px; } */
 
-.st-doctors-special {
+/* .st-doctors-special {
   font-size: 16px;
   line-height: 1.6em;
   display: flex;
@@ -780,7 +780,7 @@ hr {
   .st-doctors-special.st-color1 b {
     color: #27b1d9; }
   .st-doctors-special.st-color2 b {
-    color: #111; }
+    color: #111; } */
 
 .st-doctor-details-box {
   font-size: 16px;
